@@ -1,0 +1,22 @@
+[
+    {
+        "query": "pembunuhan berencana oleh suami terhadap istri",
+        "ground_truth": "Pidana Umum \n Pidana Umum  Pembunuhan"
+    },
+    {
+        "query": "penipuan jual beli tanah di Jakarta",
+        "ground_truth": "Perdata"
+    },
+    {
+        "query": "tindak pidana korupsi dana desa",
+        "ground_truth": "Pidana Khusus \n Pidana Khusus  Korupsi"
+    },
+    {
+        "query": "kasus pencurian dengan kekerasan di rumah toko",
+        "ground_truth": "Pidana Umum"
+    },
+    {
+        "query": "pemalsuan dokumen untuk pinjaman bank",
+        "ground_truth": "Pidana Khusus \n Pidana Khusus  Pemalsuan"
+    }
+]

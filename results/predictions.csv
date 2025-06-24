@@ -1,0 +1,16 @@
+query_id,predicted_solution,top_5_case_ids
+pembunuhan berencana oleh suami terhadap istri,PIDANA PENJARA WAKTU TERTENTU,"Pidana Umum 
+ Pidana Umum  Pembunuhan;Perdata;Pidana Umum;Pidana Khusus 
+ Pidana Khusus  KDRT"
+penipuan jual beli tanah di Jakarta,PIDANA PENJARA WAKTU TERTENTU,"Pidana Umum 
+ Pidana Umum  Pembunuhan;Pidana Umum;Pidana Khusus 
+ Pidana Khusus  KDRT;Perdata"
+tindak pidana korupsi dana desa,PIDANA PENJARA WAKTU TERTENTU,"Pidana Umum 
+ Pidana Umum  Pembunuhan;Pidana Umum;Pidana Khusus 
+ Pidana Khusus  KDRT;Perdata"
+kasus pencurian dengan kekerasan di rumah toko,PIDANA PENJARA WAKTU TERTENTU,"Pidana Umum 
+ Pidana Umum  Pembunuhan;Pidana Umum;Pidana Khusus 
+ Pidana Khusus  KDRT;Perdata"
+pemalsuan dokumen untuk pinjaman bank,PIDANA PENJARA WAKTU TERTENTU,"Pidana Umum 
+ Pidana Umum  Pembunuhan;Pidana Umum;Pidana Khusus 
+ Pidana Khusus  KDRT;Perdata"
